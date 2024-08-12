@@ -2,8 +2,8 @@ import os
 import cv2
 
 # Set the correct paths to your images and annotations
-image_path = 'D:/Edge AI/annotationimagesucs547'
-annotation_path = 'D:/Edge AI/annoted'
+image_path = '/media/daanish/Samsung SSD/Edge AI/annotationimagesucs547'
+annotation_path = '/media/daanish/Samsung SSD/Edge AI/annoted'
 
 # Get a list of all image files in the directory
 imlist = os.listdir(image_path)
