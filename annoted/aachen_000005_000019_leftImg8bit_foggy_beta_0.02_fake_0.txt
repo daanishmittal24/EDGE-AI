@@ -1,0 +1,6 @@
+ undefined 323 17 323 17
+undefined 414 403 515 510
+undefined 326 19 326 19
+car 644 387 808 547
+car 410 407 535 518
+pole 260 38 313 475
